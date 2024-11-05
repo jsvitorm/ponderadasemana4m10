@@ -84,3 +84,6 @@ Durante a execução da aplicação, o contador de chapéus vendidos será atual
 <img src="./imgs/run_counter.png">
 
 
+## Conclusão
+
+O monitoramento de métricas é um aspecto crucial no desenvolvimento de software, pois fornece visibilidade sobre o desempenho e o comportamento do sistema em tempo real. Através da implementação de contadores e outras métricas, conseguimos captar informações valiosas sobre eventos significativos, como as vendas de chapéus no nosso exemplo. Esse tipo de monitoramento permite que os desenvolvedores identifiquem tendências, avaliem a eficácia de funcionalidades e tomem decisões informadas para otimizar o desempenho do software.
