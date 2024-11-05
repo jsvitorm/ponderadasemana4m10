@@ -1,4 +1,4 @@
-# # Relatório de Implementação de Métricas com .NET
+# Relatório de Implementação de Métricas com .NET
 
 ## Introdução às Métricas
 
