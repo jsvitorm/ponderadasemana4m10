@@ -1,0 +1,15 @@
+C:\Users\Inteli\Desktop\codigos\ponderadas4m10\ponderadasemana4m10\CriandoMetricas\bin\Debug\net8.0\CriandoMetricas.exe
+C:\Users\Inteli\Desktop\codigos\ponderadas4m10\ponderadasemana4m10\CriandoMetricas\bin\Debug\net8.0\CriandoMetricas.deps.json
+C:\Users\Inteli\Desktop\codigos\ponderadas4m10\ponderadasemana4m10\CriandoMetricas\bin\Debug\net8.0\CriandoMetricas.runtimeconfig.json
+C:\Users\Inteli\Desktop\codigos\ponderadas4m10\ponderadasemana4m10\CriandoMetricas\bin\Debug\net8.0\CriandoMetricas.dll
+C:\Users\Inteli\Desktop\codigos\ponderadas4m10\ponderadasemana4m10\CriandoMetricas\bin\Debug\net8.0\CriandoMetricas.pdb
+C:\Users\Inteli\Desktop\codigos\ponderadas4m10\ponderadasemana4m10\CriandoMetricas\obj\Debug\net8.0\CriandoMetricas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Inteli\Desktop\codigos\ponderadas4m10\ponderadasemana4m10\CriandoMetricas\obj\Debug\net8.0\CriandoMetricas.AssemblyInfoInputs.cache
+C:\Users\Inteli\Desktop\codigos\ponderadas4m10\ponderadasemana4m10\CriandoMetricas\obj\Debug\net8.0\CriandoMetricas.AssemblyInfo.cs
+C:\Users\Inteli\Desktop\codigos\ponderadas4m10\ponderadasemana4m10\CriandoMetricas\obj\Debug\net8.0\CriandoMetricas.csproj.CoreCompileInputs.cache
+C:\Users\Inteli\Desktop\codigos\ponderadas4m10\ponderadasemana4m10\CriandoMetricas\obj\Debug\net8.0\CriandoMetricas.sourcelink.json
+C:\Users\Inteli\Desktop\codigos\ponderadas4m10\ponderadasemana4m10\CriandoMetricas\obj\Debug\net8.0\CriandoMetricas.dll
+C:\Users\Inteli\Desktop\codigos\ponderadas4m10\ponderadasemana4m10\CriandoMetricas\obj\Debug\net8.0\refint\CriandoMetricas.dll
+C:\Users\Inteli\Desktop\codigos\ponderadas4m10\ponderadasemana4m10\CriandoMetricas\obj\Debug\net8.0\CriandoMetricas.pdb
+C:\Users\Inteli\Desktop\codigos\ponderadas4m10\ponderadasemana4m10\CriandoMetricas\obj\Debug\net8.0\CriandoMetricas.genruntimeconfig.cache
+C:\Users\Inteli\Desktop\codigos\ponderadas4m10\ponderadasemana4m10\CriandoMetricas\obj\Debug\net8.0\ref\CriandoMetricas.dll

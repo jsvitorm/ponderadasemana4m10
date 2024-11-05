@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Tx/GJsYGRAfExoNKLnYRoQLAAKKPhqhTiBGaaTHkK4O7L3mztaA0kP/lmoAH3ydYfy9sB/pzpkdkYa8q4BDDNw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Inteli\\Desktop\\codigos\\ponderadas4m10\\ponderadasemana4m10\\CriandoMetricas\\CriandoMetricas.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Inteli\\.nuget\\packages\\system.diagnostics.diagnosticsource\\8.0.1\\system.diagnostics.diagnosticsource.8.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
